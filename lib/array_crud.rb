@@ -3,8 +3,10 @@ def create_an_empty_array
 end
 
 def create_an_array
-  array = ["wow", "I", "am", "really", "learning"]
+  all_the_pets = ["Catherine", "Geoff", "George", "Victoria"]
 end
+
+array = ["wow", "I", "am", "really", "learning"]
 
 def add_element_to_end_of_array(array, element)
   array << "arrays!"
